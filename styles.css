@@ -1,0 +1,33 @@
+body {
+    background-color: gainsboro;
+    font-family: Arial;
+    text-align: center;
+  }
+  
+  .table-name {
+    color: rebeccapurple;
+  }
+  
+  .tag {
+    font-family: monospace;
+  }
+  
+  table {
+    border: 2px solid darkorchid;
+    margin: auto;
+    text-align: left;
+    width: 95%
+  }
+  
+  td {
+    border-top: solid;
+    border-top-color: darkorchid;
+    border-top-width: 1px;
+    font-size: 16px;
+    border-spacing: 2px;
+    padding-right: 15px;
+  }
+  
+  .minim-width {
+    min-width: 70px;
+  }
